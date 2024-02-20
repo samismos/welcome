@@ -1,17 +1,26 @@
 {
   "files": {
-    "main.css": "/welcome/static/css/main.5d7942c2.css",
-    "main.js": "/welcome/static/js/main.dcfb82f1.js",
+    "main.css": "/welcome/static/css/main.49111da5.css",
+    "main.js": "/welcome/static/js/main.1c4031d9.js",
     "static/js/453.b20ed47d.chunk.js": "/welcome/static/js/453.b20ed47d.chunk.js",
+    "static/media/webgis.png": "/welcome/static/media/webgis.f4995f97ffbd7974a8f3.png",
+    "static/media/parking.gif": "/welcome/static/media/parking.06bd59fef163aa56e6b9.gif",
+    "static/media/graduation.png": "/welcome/static/media/graduation.2ea65f4a82437a8645e4.png",
+    "static/media/kodular.png": "/welcome/static/media/kodular.4be47b5eee8c7181acac.png",
+    "static/media/rdbms.png": "/welcome/static/media/rdbms.c53e846d42bea3b65baf.png",
     "static/media/bike.jpg": "/welcome/static/media/bike.4df22a21ec016ab82a4d.jpg",
+    "static/media/linux.png": "/welcome/static/media/linux.95c600e619494764ec54.png",
+    "static/media/grafana.jpg": "/welcome/static/media/grafana.a56879e571b14de39bdc.jpg",
     "static/media/face.jpg": "/welcome/static/media/face.7be70fb399c4936f2d09.jpg",
+    "static/media/dockeraws.png": "/welcome/static/media/dockeraws.605981e3f18731a53a36.png",
+    "static/media/dataminer.png": "/welcome/static/media/dataminer.02ca4091752afd881665.png",
     "index.html": "/welcome/index.html",
-    "main.5d7942c2.css.map": "/welcome/static/css/main.5d7942c2.css.map",
-    "main.dcfb82f1.js.map": "/welcome/static/js/main.dcfb82f1.js.map",
+    "main.49111da5.css.map": "/welcome/static/css/main.49111da5.css.map",
+    "main.1c4031d9.js.map": "/welcome/static/js/main.1c4031d9.js.map",
     "453.b20ed47d.chunk.js.map": "/welcome/static/js/453.b20ed47d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d7942c2.css",
-    "static/js/main.dcfb82f1.js"
+    "static/css/main.49111da5.css",
+    "static/js/main.1c4031d9.js"
   ]
 }
