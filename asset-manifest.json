@@ -1,17 +1,22 @@
 {
   "files": {
-    "main.css": "/welcome/static/css/main.5d7942c2.css",
-    "main.js": "/welcome/static/js/main.72311550.js",
+    "main.css": "/welcome/static/css/main.13ba5827.css",
+    "main.js": "/welcome/static/js/main.8157ded3.js",
     "static/js/453.b20ed47d.chunk.js": "/welcome/static/js/453.b20ed47d.chunk.js",
+    "static/media/webgis.png": "/welcome/static/media/webgis.c1d1bf2555df54d36d39.png",
+    "static/media/graduation.png": "/welcome/static/media/graduation.2ea65f4a82437a8645e4.png",
     "static/media/bike.jpg": "/welcome/static/media/bike.4df22a21ec016ab82a4d.jpg",
+    "static/media/adventure1.png": "/welcome/static/media/adventure1.a7aa553365300898a40d.png",
     "static/media/face.jpg": "/welcome/static/media/face.7be70fb399c4936f2d09.jpg",
+    "static/media/backend.png": "/welcome/static/media/backend.3f906dce9519b6353901.png",
+    "static/media/webdev2.png": "/welcome/static/media/webdev2.08b039d73bd4fa61e4bf.png",
     "index.html": "/welcome/index.html",
-    "main.5d7942c2.css.map": "/welcome/static/css/main.5d7942c2.css.map",
-    "main.72311550.js.map": "/welcome/static/js/main.72311550.js.map",
+    "main.13ba5827.css.map": "/welcome/static/css/main.13ba5827.css.map",
+    "main.8157ded3.js.map": "/welcome/static/js/main.8157ded3.js.map",
     "453.b20ed47d.chunk.js.map": "/welcome/static/js/453.b20ed47d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d7942c2.css",
-    "static/js/main.72311550.js"
+    "static/css/main.13ba5827.css",
+    "static/js/main.8157ded3.js"
   ]
 }
