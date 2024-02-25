@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/welcome/static/css/main.64b1466a.css",
-    "main.js": "/welcome/static/js/main.6bc9855f.js",
+    "main.js": "/welcome/static/js/main.4c8d9f9a.js",
     "static/js/453.b20ed47d.chunk.js": "/welcome/static/js/453.b20ed47d.chunk.js",
     "static/media/dataminer.gif": "/welcome/static/media/dataminer.45bd3e1255be6263a590.gif",
-    "static/media/webgis.png": "/welcome/static/media/webgis.c1d1bf2555df54d36d39.png",
+    "static/media/webgis_m.png": "/welcome/static/media/webgis_m.4dceca4442c687cae3a3.png",
     "static/media/graduation.png": "/welcome/static/media/graduation.2ea65f4a82437a8645e4.png",
     "static/media/linux.png": "/welcome/static/media/linux.5c31431d8bf5405114a4.png",
     "static/media/algorithms.jpg": "/welcome/static/media/algorithms.f4bfe3373d24ddc8c495.jpg",
@@ -18,11 +18,11 @@
     "static/media/webdev.png": "/welcome/static/media/webdev.08b039d73bd4fa61e4bf.png",
     "index.html": "/welcome/index.html",
     "main.64b1466a.css.map": "/welcome/static/css/main.64b1466a.css.map",
-    "main.6bc9855f.js.map": "/welcome/static/js/main.6bc9855f.js.map",
+    "main.4c8d9f9a.js.map": "/welcome/static/js/main.4c8d9f9a.js.map",
     "453.b20ed47d.chunk.js.map": "/welcome/static/js/453.b20ed47d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.64b1466a.css",
-    "static/js/main.6bc9855f.js"
+    "static/js/main.4c8d9f9a.js"
   ]
 }
