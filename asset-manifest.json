@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/welcome/static/css/main.29f523fc.css",
-    "main.js": "/welcome/static/js/main.27d8d0eb.js",
+    "main.css": "/welcome/static/css/main.c0fec8fb.css",
+    "main.js": "/welcome/static/js/main.d2cd988a.js",
     "static/js/453.b20ed47d.chunk.js": "/welcome/static/js/453.b20ed47d.chunk.js",
     "static/media/dataminer.gif": "/welcome/static/media/dataminer.45bd3e1255be6263a590.gif",
     "static/media/webgis_m.png": "/welcome/static/media/webgis_m.4dceca4442c687cae3a3.png",
@@ -16,12 +16,12 @@
     "static/media/backend.png": "/welcome/static/media/backend.3f906dce9519b6353901.png",
     "static/media/webdev.png": "/welcome/static/media/webdev.08b039d73bd4fa61e4bf.png",
     "index.html": "/welcome/index.html",
-    "main.29f523fc.css.map": "/welcome/static/css/main.29f523fc.css.map",
-    "main.27d8d0eb.js.map": "/welcome/static/js/main.27d8d0eb.js.map",
+    "main.c0fec8fb.css.map": "/welcome/static/css/main.c0fec8fb.css.map",
+    "main.d2cd988a.js.map": "/welcome/static/js/main.d2cd988a.js.map",
     "453.b20ed47d.chunk.js.map": "/welcome/static/js/453.b20ed47d.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.29f523fc.css",
-    "static/js/main.27d8d0eb.js"
+    "static/css/main.c0fec8fb.css",
+    "static/js/main.d2cd988a.js"
   ]
 }
